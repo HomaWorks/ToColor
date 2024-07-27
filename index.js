@@ -23,7 +23,7 @@ const bgColors = {
 const styles = {
   bold: '\x1b[1m',
   underline: '\x1b[4m',
-  blink: '\x1b[5m',  // Adding blink style
+  blink: '\x1b[5m',  
   reset: '\x1b[0m'
 };
 
@@ -124,5 +124,5 @@ module.exports = {
   blinkText,
   logColorized,
   rainbowColorize,
-  gradientColorize  // Exporting gradientColorize
+  gradientColorize  
 };

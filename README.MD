@@ -78,4 +78,4 @@ MIT License.
 
 ## GitHub
 
-For more information, please visit the [My Github Profile](https://github.com/daveonHMD).
+For more information, please visit the [Github Repo](https://github.com/DesTools-Studio/ToColor).
